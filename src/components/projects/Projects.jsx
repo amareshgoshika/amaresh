@@ -36,12 +36,12 @@ const Projects = ({ darkMode }) => {
           {/* right box */}
           <div className="right relative flex-1 flex flex-wrap p-5 gap-10 items-center justify-center sm:w-full">
             <div className="first2 flex flex-col gap-10">
-              <SkillBox
+              <a href = "https://github.com/amareshgoshika/MeetingSummaryGenerator"><SkillBox
                 logo={<MdClass />}
                 black={"black"}
                 white={"white"}
-                skill={"Class Attendance"}
-              />
+                skill={"MSG"}
+              /></a>
               <SkillBox
                 logo={<TbReceiptTax />}
                 black={"black"}
@@ -50,12 +50,12 @@ const Projects = ({ darkMode }) => {
               />
             </div>
             <div className="first2 flex flex-col gap-10">
-              <SkillBox
+              <a href = "https://apkpure.com/developer/Goshika%20Amaresh" ><SkillBox
                 logo={<BiFoodMenu />}
                 black={"white"}
                 white={"black"}
                 skill={"Hungry App"}
-              />
+              /></a>
               <SkillBox
                 logo={<FaTaxi />}
                 black={"white"}
@@ -70,12 +70,13 @@ const Projects = ({ darkMode }) => {
                 white={"white"}
                 skill={"Stud Login Reg"}
               />
+              <a href = "https://ai-adda.netlify.app/">
               <SkillBox
                 logo={<GiArtificialIntelligence />}
                 black={"black"}
                 white={"white"}
                 skill={"Ai Adda"}
-              />
+              /></a>
             </div>
           </div>
         </div>
