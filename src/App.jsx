@@ -4,6 +4,7 @@ import { BarLoader } from "react-spinners";
 import { Routes, Route } from "react-router-dom";
 import Home from "./pages/Home";
 import AiAdda from "./pages/AiAdda";
+import ChatSecret from "./pages/ChatSecret";
 
 const App = () => {
   const [loading, setLoading] = useState(true);
@@ -31,6 +32,7 @@ const App = () => {
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/AiAdda" element={<AiAdda />} />
+          <Route path="/chat-secret" element={<ChatSecret />} />
         </Routes>
       )}
     </Suspense>
