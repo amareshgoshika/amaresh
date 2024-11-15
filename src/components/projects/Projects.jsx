@@ -1,7 +1,7 @@
 import React from "react";
 import ProgressBar from "../../chip/ProgressBar";
 import SkillBox from "../../chip/SkillBox";
-
+import { Link } from "react-router-dom";
 import { IoLogoHtml5, IoLogoCss3 } from "react-icons/io";
 
 
@@ -70,13 +70,13 @@ const Projects = ({ darkMode }) => {
                 white={"white"}
                 skill={"Stud Login Reg"}
               />
-              <a href = "https://ai-adda.netlify.app/">
+              <Link to="/AiAdda">
               <SkillBox
                 logo={<GiArtificialIntelligence />}
                 black={"black"}
                 white={"white"}
                 skill={"Ai Adda"}
-              /></a>
+              /></Link>
             </div>
           </div>
         </div>
