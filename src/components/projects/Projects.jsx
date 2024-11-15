@@ -56,12 +56,13 @@ const Projects = ({ darkMode }) => {
                 white={"black"}
                 skill={"Hungry App"}
               /></a>
+              <Link to="/Chat-secret">
               <SkillBox
                 logo={<FaTaxi />}
                 black={"white"}
                 white={"black"}
-                skill={"Wrong Parker"}
-              />
+                skill={"Chat Secret"}
+                /></Link>
             </div>
             <div className="first2 flex flex-col gap-10">
               <SkillBox
