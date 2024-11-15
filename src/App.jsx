@@ -1,7 +1,9 @@
 import React, { useState, useEffect } from "react";
 import { Suspense } from "react";
 import { BarLoader } from "react-spinners";
+import { Routes, Route } from "react-router-dom";
 import Home from "./pages/Home";
+import AiAdda from "./pages/AiAdda";
 
 const App = () => {
   const [loading, setLoading] = useState(true);
@@ -26,7 +28,10 @@ const App = () => {
           <BarLoader color="#f6c400" height={4} />
         </div>
       ) : (
-        <Home />
+        <Routes>
+          <Route path="/" element={<Home />} />
+          <Route path="/AiAdda" element={<AiAdda />} />
+        </Routes>
       )}
     </Suspense>
   );
