@@ -52,7 +52,7 @@ const Resume = () => {
                   Ikkath, Hyderabad India
                 </span>
                 <span className=" text-[.9rem] font-semibold text-yellow-500 sm:text-base">
-                  December 2017 - December 2021
+                  December 2020 - December 2021
                 </span>
                 <p className=" text-[.9rem] text-justify break-words text-gray-500">
                  ●	Engaged in agile methodologies by fostering cross-team collaboration and participating in release management and validation processes, utilizing OpenShift, resulting in a 25% increase in project success rates. <br/>
@@ -76,7 +76,7 @@ const Resume = () => {
                   Electronic Corporation of India Limited, India
                 </span>
                 <span className=" text-[.9rem] font-semibold text-yellow-500 sm:text-base">
-                  June 2017 - November 2017
+                  June 2017 - June 2018
                 </span>
                 <p className=" text-[.9rem] text-justify break-words text-gray-500">
                   ●	Developed a web application for Maharashtra Sales Tax Department, organizing and digitally displaying 10,000+ documents into a structured database. <br/>
