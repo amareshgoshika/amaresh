@@ -33,7 +33,7 @@ const Resume = () => {
                   Lamar University
                 </span>
                 <span className=" text-[.9rem] font-semibold text-yellow-500 sm:text-base">
-                  August 2022 - May 2024
+                  Jan 2021 - May 2024
                 </span>
               </div>
             </div>
