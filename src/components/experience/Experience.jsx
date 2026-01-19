@@ -29,16 +29,16 @@ const Resume = () => {
                 <span className=" text-[.9rem] font-semibold text-yellow-500 sm:text-base">
                   June 2025 - Present
                 </span>
-                <p className=" text-[.9rem] text-justify break-words text-gray-500">
-                 ●	Migrated 100+ trade publishing templates from MongoDB to GitLab repositories, enabling centralized version control and improving deployment reliability by 35%.<br/>
-                ●	Refactored core services to fetch configuration and template data directly from Git-based source control, reducing manual database dependencies and cutting template-related production issues by 30%.<br/>
-                ●	Implemented secure GitLab-based workflows to manage trade publishing assets, improving auditability and compliance with internal governance standards.<br/>
-                ●	Collaborated with 10+ internal trading and operations teams to verify daily trade publishing status, ensuring 99.9% accuracy in trade visibility and reporting.<br/>
-                ●	Served as the primary point of contact for trade publication validation, resolving 20–30 user inquiries per week and reducing trade publishing delays by 25%.<br/>
-                ●	Monitored trade publishing pipelines and investigated failures, decreasing incident resolution time by 40% through proactive communication and root-cause analysis.<br/>
-                ●	Coordinated with upstream and downstream teams to ensure seamless trade lifecycle processing, supporting high-volume daily trade flows across multiple asset classes.<br/>
-                ●	Improved operational transparency by documenting trade publishing workflows and Git-based template management, reducing onboarding time for new team members by 20%.<br/>
-                </p>
+                {/*<p className=" text-[.9rem] text-justify break-words text-gray-500">*/}
+                {/* ●	Migrated 100+ trade publishing templates from MongoDB to GitLab repositories, enabling centralized version control and improving deployment reliability by 35%.<br/>*/}
+                {/*●	Refactored core services to fetch configuration and template data directly from Git-based source control, reducing manual database dependencies and cutting template-related production issues by 30%.<br/>*/}
+                {/*●	Implemented secure GitLab-based workflows to manage trade publishing assets, improving auditability and compliance with internal governance standards.<br/>*/}
+                {/*●	Collaborated with 10+ internal trading and operations teams to verify daily trade publishing status, ensuring 99.9% accuracy in trade visibility and reporting.<br/>*/}
+                {/*●	Served as the primary point of contact for trade publication validation, resolving 20–30 user inquiries per week and reducing trade publishing delays by 25%.<br/>*/}
+                {/*●	Monitored trade publishing pipelines and investigated failures, decreasing incident resolution time by 40% through proactive communication and root-cause analysis.<br/>*/}
+                {/*●	Coordinated with upstream and downstream teams to ensure seamless trade lifecycle processing, supporting high-volume daily trade flows across multiple asset classes.<br/>*/}
+                {/*●	Improved operational transparency by documenting trade publishing workflows and Git-based template management, reducing onboarding time for new team members by 20%.<br/>*/}
+                {/*</p>*/}
               </div>
             </div><br/>
               <div className=" relative">
