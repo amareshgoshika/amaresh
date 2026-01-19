@@ -21,27 +21,51 @@ const Resume = () => {
               {/* design */}
               <div className=" flex flex-col gap-1 sm:gap-1 border-2 border-yellow-400 shadow-[0px_0px_16px_1px_rgba(0,0,0,0.1)] p-3 rounded-lg">
                 <h1 className="text-[1.4rem] font-semibold sm:text-xl">
-                  Full Stack Developer
+                  Associate Software Engineer
                 </h1>
                 <span className=" text-[.9rem] font-semibold text-gray-500 sm:text-base">
-                  RL Carriers, Wilmington, OH
+                  Goldman Sachs, Salt Lake City, UT
                 </span>
                 <span className=" text-[.9rem] font-semibold text-yellow-500 sm:text-base">
-                  August 2023 - Present
+                  June 2025 - Present
                 </span>
                 <p className=" text-[.9rem] text-justify break-words text-gray-500">
-                 ●	Enhanced team productivity by actively participating in daily stand-ups, sprint planning, story grooming, and retrospectives within an agile environment, focusing on software architecture principles.<br/>
-                 ●	Improved user experience by designing and modifying responsive UIs using JSP, JavaScript, HTML5, Angular 10, jQuery, and React JS, resulting in intuitive and efficient interfaces for cloud computing applications.<br/>
-                 ●	Ensured 100% reliability of user interfaces by spearheading the development and optimization of React JS components and modules, enhancing distributed system performance.<br/>
-                 ●	Structured and coded scripts to create tables, indexes, views, sequences, synonyms, and triggers, which streamlined database operations and data retrieval processes, supporting networking tasks.<br/>
-                 ●	Established automated CI/CD pipelines integrated with GitHub, facilitating seamless commits to deployment across all environments via Jenkins, and ensuring strict authorization protocols for Amazon Web Services (AWS) environments.<br/>
-                 ●	Incorporated REST APIs for POST and GET actions, optimizing payload to meet API request requirements and enhancing overall system performance, relevant to network engineering.<br/>
-                 ●	Synchronized and optimized code by conducting review sessions, securing applications from issues and bugs through comprehensive team collaboration, contributing to robust distributed systems.<br/>
-                 ●	Mastered GIT commands (PULL, FETCH, commit, rollback, checkout, clone, merge, delete commits) to manage version control, ensuring efficient development and issue resolution in cloud computing projects.<br/>
-                 ●	Led production support once per PI, resolving issues by collaborating with consumers and business management to maintain operational continuity, leveraging network engineer expertise.<br/>
+                 ●	Migrated 100+ trade publishing templates from MongoDB to GitLab repositories, enabling centralized version control and improving deployment reliability by 35%.<br/>
+                ●	Refactored core services to fetch configuration and template data directly from Git-based source control, reducing manual database dependencies and cutting template-related production issues by 30%.<br/>
+                ●	Implemented secure GitLab-based workflows to manage trade publishing assets, improving auditability and compliance with internal governance standards.<br/>
+                ●	Collaborated with 10+ internal trading and operations teams to verify daily trade publishing status, ensuring 99.9% accuracy in trade visibility and reporting.<br/>
+                ●	Served as the primary point of contact for trade publication validation, resolving 20–30 user inquiries per week and reducing trade publishing delays by 25%.<br/>
+                ●	Monitored trade publishing pipelines and investigated failures, decreasing incident resolution time by 40% through proactive communication and root-cause analysis.<br/>
+                ●	Coordinated with upstream and downstream teams to ensure seamless trade lifecycle processing, supporting high-volume daily trade flows across multiple asset classes.<br/>
+                ●	Improved operational transparency by documenting trade publishing workflows and Git-based template management, reducing onboarding time for new team members by 20%.<br/>
                 </p>
               </div>
             </div><br/>
+              <div className=" relative">
+                  {/* design */}
+                  <div className=" flex flex-col gap-1 sm:gap-1 border-2 border-yellow-400 shadow-[0px_0px_16px_1px_rgba(0,0,0,0.1)] p-3 rounded-lg">
+                      <h1 className="text-[1.4rem] font-semibold sm:text-xl">
+                          Full Stack Developer
+                      </h1>
+                      <span className=" text-[.9rem] font-semibold text-gray-500 sm:text-base">
+                  RL Carriers, Wilmington, OH
+                </span>
+                      <span className=" text-[.9rem] font-semibold text-yellow-500 sm:text-base">
+                  August 2023 - June 2025
+                </span>
+                      <p className=" text-[.9rem] text-justify break-words text-gray-500">
+                          ●	Enhanced team productivity by actively participating in daily stand-ups, sprint planning, story grooming, and retrospectives within an agile environment, focusing on software architecture principles.<br/>
+                          ●	Improved user experience by designing and modifying responsive UIs using JSP, JavaScript, HTML5, Angular 10, jQuery, and React JS, resulting in intuitive and efficient interfaces for cloud computing applications.<br/>
+                          ●	Ensured 100% reliability of user interfaces by spearheading the development and optimization of React JS components and modules, enhancing distributed system performance.<br/>
+                          ●	Structured and coded scripts to create tables, indexes, views, sequences, synonyms, and triggers, which streamlined database operations and data retrieval processes, supporting networking tasks.<br/>
+                          ●	Established automated CI/CD pipelines integrated with GitHub, facilitating seamless commits to deployment across all environments via Jenkins, and ensuring strict authorization protocols for Amazon Web Services (AWS) environments.<br/>
+                          ●	Incorporated REST APIs for POST and GET actions, optimizing payload to meet API request requirements and enhancing overall system performance, relevant to network engineering.<br/>
+                          ●	Synchronized and optimized code by conducting review sessions, securing applications from issues and bugs through comprehensive team collaboration, contributing to robust distributed systems.<br/>
+                          ●	Mastered GIT commands (PULL, FETCH, commit, rollback, checkout, clone, merge, delete commits) to manage version control, ensuring efficient development and issue resolution in cloud computing projects.<br/>
+                          ●	Led production support once per PI, resolving issues by collaborating with consumers and business management to maintain operational continuity, leveraging network engineer expertise.<br/>
+                      </p>
+                  </div>
+              </div><br/>
             <div className=" relative">
               {/* design */}
               <div className=" flex flex-col gap-1 sm:gap-1 border-2 border-yellow-400 shadow-[0px_0px_16px_1px_rgba(0,0,0,0.1)] p-3 rounded-lg">

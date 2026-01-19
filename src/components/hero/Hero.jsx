@@ -27,7 +27,7 @@ const Hero = () => {
             <TypeAnimation
               data-aos="fade-up"
               sequence={[
-                "Full Stack Developer",
+                "Associate Software Engineer",
                 2000,
 //                 "Freelancer",
 //                 2000,
@@ -42,7 +42,7 @@ const Hero = () => {
               // data-aos="fade-up"
               className=" text-[1.1rem] font-medium w-3/4 md:w-full text-gray-600 sm:text-[.95rem]"
             >
-              Looking for Full Time and Contract Positions
+              Looking for Full Time Positions
             </p>
           </div>
           <div data-aos="fade-up" className="buttons flex gap-5">
